@@ -1,5 +1,5 @@
 用UICollectionView做的一个日期选择器。
-<img style="width:50px;height:88px" src="http://ot2j75j31.bkt.clouddn.com/image/SmartDatePicker.gif">
+<img src="http://ot2j75j31.bkt.clouddn.com/image/SmartDatePicker.gif">
 <!-- ```
 - (void)viewDidLoad
 {
