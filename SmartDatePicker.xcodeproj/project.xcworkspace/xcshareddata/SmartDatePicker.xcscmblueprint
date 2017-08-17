@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AD8AEB195AF8E7760AFB62B164748F12D209990C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9F8F8FF662BA90A69C702981251FF2ECA7DEC61A" : 9223372036854775807,
+    "AD8AEB195AF8E7760AFB62B164748F12D209990C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "31FB6CCC-6187-4EAB-A487-60E5BE4CDCF2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9F8F8FF662BA90A69C702981251FF2ECA7DEC61A" : "",
+    "AD8AEB195AF8E7760AFB62B164748F12D209990C" : "LYDatePicker\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SmartDatePicker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SmartDatePicker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/lyluoyuan\/myLearningDemos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F8F8FF662BA90A69C702981251FF2ECA7DEC61A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lyluoyuan\/LYDatePicker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD8AEB195AF8E7760AFB62B164748F12D209990C"
+    }
+  ]
+}
